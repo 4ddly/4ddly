@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yusufbasder@hotmail.com**
 
-- My about page: **yusufbasder.com**
+- 🌐 My website: **[yusufbasder.com](https://yusufbasder.com)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
