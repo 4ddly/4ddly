@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yusufbasder@hotmail.com**
 
+- My about page: **yusufbasder.com**
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
