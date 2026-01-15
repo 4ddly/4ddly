@@ -44,8 +44,9 @@ Here are some ideas to get you started:
   </a> &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> &nbsp;
+  </a> 
+  <!--&nbsp;
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="40" height="40"/>
-  </a>
+  </a-->
 </p>
